@@ -1,0 +1,29 @@
+{
+  "name": "goo.js",
+  "version": "0.0.1",
+  "description": "Functional structures for JS",
+  "main": "goo.js",
+  "dependencies": {
+    "json": "^9.0.4"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pbalduino/goo.js.git"
+  },
+  "keywords": [
+    "functional",
+    "lazy"
+  ],
+  "author": "Plinio Balduino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pbalduino/goo.js/issues"
+  },
+  "homepage": "https://github.com/pbalduino/goo.js#readme"
+}
